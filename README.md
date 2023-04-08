@@ -1,4 +1,6 @@
 # B-CPE-200-PAR-2-1-dante-alexandre.molina
+
+Solver made by Adrien Jacq.
 How to use:
 
 in terminal, be in the root of the git folder:
